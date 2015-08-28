@@ -1,0 +1,19 @@
+body	{
+	font-family: arial;
+	font-size: 100%;
+	background-color: rgb(238,238,238);}
+h1{
+	font-family: "AR BONNIE", Regular;
+	color: rgb(165,0,0);
+	font-size: 300%;
+	background-color: rgb(247,247,247);}
+	
+h2{
+	font-family: "Verdana", Regular;
+	color: rgb(235,76,76);}
+p.note{
+	font-size: 70%;
+	color:rgb(202,28,28);}
+p{
+	font-family: arial;
+	font-size: 100%;}
